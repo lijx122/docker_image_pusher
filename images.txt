@@ -1,2 +1,2 @@
-langgenius/qdrant:0.7.3
+langgenius/qdrant:v1.7.3
 pgvector/pgvector
