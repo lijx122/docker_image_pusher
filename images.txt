@@ -8,3 +8,7 @@ ubuntu/squid:latest
 nginx:latest
 ollama/ollama
 ghcr.io/binary-husky/gpt_academic_nolocal:master
+ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
+ghcr.io/immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
+docker.io/redis:6.2-alpine@sha256:328fe6a5822256d065debb36617a8169dbfbd77b797c525288e465f56c1d392b
