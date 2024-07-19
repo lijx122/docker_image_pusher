@@ -1,4 +1,1 @@
-jitsi/web:${JITSI_IMAGE_VERSION:-stable-9584-1}
-jitsi/prosody:${JITSI_IMAGE_VERSION:-stable-9584-1}
-jitsi/jicofo:${JITSI_IMAGE_VERSION:-stable-9584-1}
-jitsi/jvb:${JITSI_IMAGE_VERSION:-stable-9584-1}
+ollama/ollama
