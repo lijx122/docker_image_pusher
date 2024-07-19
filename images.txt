@@ -1,1 +1,4 @@
-ollama/ollama
+jitsi/web:web-1.0.8078-1
+jitsi/prosody
+jitsi/jicofo
+jitsi/jvb
