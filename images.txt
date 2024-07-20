@@ -1,4 +1,1 @@
-jitsi/web:web-1.0.8078-1
-jitsi/prosody:prosody-0.12.4
-jitsi/jicofo:jicofo-1.0-1090-1
-jitsi/jvb:jvb-2.3-159-g6f3f5684-1
+jc21/nginx-proxy-manager
