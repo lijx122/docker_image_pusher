@@ -1,1 +1,1 @@
-ghcr.io/immich-app/immich-machine-learning:main
+alpine:latest
